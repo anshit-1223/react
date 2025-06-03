@@ -1,7 +1,7 @@
 function Chai(){
     return (
         <h1>
-            Chai is ready
+            Chai with Anshit
         </h1>
     )
 }
