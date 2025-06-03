@@ -17,3 +17,8 @@
 ->After React
 - Framework - NextJs, Gatsby, Remix.
 - Switch to backend
+
+hooks
+
+const [counter, setCounter] = useState(0)
+       variable  function
