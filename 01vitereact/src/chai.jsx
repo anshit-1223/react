@@ -1,7 +1,7 @@
 function Chai(){
     return (
         <h1>
-            Chai with Anshit
+            Chai Code
         </h1>
     )
 }
